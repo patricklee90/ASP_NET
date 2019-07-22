@@ -1,0 +1,11 @@
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\bin\Debug\Week3_Tutorial8_Drawing Program.exe.config
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\bin\Debug\Week3_Tutorial8_Drawing Program.exe
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\bin\Debug\Week3_Tutorial8_Drawing Program.pdb
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing Program.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing_Program.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing_Program.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing Program.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing Program.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing Program.exe
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing Program.pdb
+D:\Window GUI Programming\Week3_Tutorial8_Drawing Program\Week3_Tutorial8_Drawing Program\obj\Debug\Week3_Tutorial8_Drawing_Program.FormNewPic.resources

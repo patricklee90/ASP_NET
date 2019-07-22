@@ -1,0 +1,11 @@
+D:\ASP_NET JiaoTong University\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.deps.json
+D:\ASP_NET JiaoTong University\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.json
+D:\ASP_NET JiaoTong University\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.dev.json
+D:\ASP_NET JiaoTong University\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.dll
+D:\ASP_NET JiaoTong University\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.pdb
+D:\ASP_NET JiaoTong University\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.csprojAssemblyReference.cache
+D:\ASP_NET JiaoTong University\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.csproj.CoreCompileInputs.cache
+D:\ASP_NET JiaoTong University\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfoInputs.cache
+D:\ASP_NET JiaoTong University\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfo.cs
+D:\ASP_NET JiaoTong University\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.dll
+D:\ASP_NET JiaoTong University\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.pdb

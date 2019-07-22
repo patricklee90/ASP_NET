@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu_and_Color_Container.Form1.resources
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu_and_Color_Container.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu and Color Container.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu and Color Container.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\bin\Debug\Week3_Exam3_Menu and Color Container.exe.config
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\bin\Debug\Week3_Exam3_Menu and Color Container.exe
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\bin\Debug\Week3_Exam3_Menu and Color Container.pdb
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu and Color Container.exe
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu and Color Container.pdb
+D:\Window GUI Programming\Week3_Exam3_Menu and Color Container\Week3_Exam3_Menu and Color Container\obj\Debug\Week3_Exam3_Menu and Color Container.csprojAssemblyReference.cache

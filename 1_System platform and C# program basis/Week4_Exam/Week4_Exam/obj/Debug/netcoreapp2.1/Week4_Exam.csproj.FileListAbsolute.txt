@@ -1,0 +1,11 @@
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\bin\Debug\netcoreapp2.1\Week4_Exam.deps.json
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\bin\Debug\netcoreapp2.1\Week4_Exam.runtimeconfig.json
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\bin\Debug\netcoreapp2.1\Week4_Exam.runtimeconfig.dev.json
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\bin\Debug\netcoreapp2.1\Week4_Exam.dll
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\bin\Debug\netcoreapp2.1\Week4_Exam.pdb
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\obj\Debug\netcoreapp2.1\Week4_Exam.csprojAssemblyReference.cache
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\obj\Debug\netcoreapp2.1\Week4_Exam.csproj.CoreCompileInputs.cache
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\obj\Debug\netcoreapp2.1\Week4_Exam.AssemblyInfoInputs.cache
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\obj\Debug\netcoreapp2.1\Week4_Exam.AssemblyInfo.cs
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\obj\Debug\netcoreapp2.1\Week4_Exam.dll
+D:\ASP_NET JiaoTong University\Week4_Exam\Week4_Exam\obj\Debug\netcoreapp2.1\Week4_Exam.pdb

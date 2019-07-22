@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\bin\Debug\Week3_Tutorial2_Brush and Text Output.exe.config
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\bin\Debug\Week3_Tutorial2_Brush and Text Output.exe
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\bin\Debug\Week3_Tutorial2_Brush and Text Output.pdb
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush and Text Output.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush_and_Text_Output.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush_and_Text_Output.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush and Text Output.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush and Text Output.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush and Text Output.exe
+D:\Window GUI Programming\Week3_Tutorial2_Brush and Text Output\Week3_Tutorial2_Brush and Text Output\obj\Debug\Week3_Tutorial2_Brush and Text Output.pdb

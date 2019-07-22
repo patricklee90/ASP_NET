@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\bin\Debug\Week2_Tutorial1_Use of Tooltip.exe.config
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\bin\Debug\Week2_Tutorial1_Use of Tooltip.exe
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\bin\Debug\Week2_Tutorial1_Use of Tooltip.pdb
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use of Tooltip.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use_of_Tooltip.Form1.resources
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use_of_Tooltip.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use of Tooltip.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use of Tooltip.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use of Tooltip.exe
+D:\Window GUI Programming\Week2_Tutorial1_Use of Tooltip\Week2_Tutorial1_Use of Tooltip\obj\Debug\Week2_Tutorial1_Use of Tooltip.pdb

@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\bin\Debug\Week3_Exam2_Drawing Oval.exe.config
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\bin\Debug\Week3_Exam2_Drawing Oval.exe
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\bin\Debug\Week3_Exam2_Drawing Oval.pdb
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing Oval.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing_Oval.Form1.resources
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing_Oval.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing Oval.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing Oval.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing Oval.exe
+D:\Window GUI Programming\Week3_Exam2_Drawing Oval\Week3_Exam2_Drawing Oval\obj\Debug\Week3_Exam2_Drawing Oval.pdb

@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\bin\Debug\Week2_Tutorial6_List Box.exe.config
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\bin\Debug\Week2_Tutorial6_List Box.exe
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\bin\Debug\Week2_Tutorial6_List Box.pdb
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List_Box.Form1.resources
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List_Box.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List Box.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List Box.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List Box.exe
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List Box.pdb
+D:\Window GUI Programming\Week2_Tutorial6_List Box\Week2_Tutorial6_List Box\obj\Debug\Week2_Tutorial6_List Box.csprojAssemblyReference.cache

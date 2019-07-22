@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\bin\Debug\Week3_Tutorial3_Drawing at Controller.exe.config
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\bin\Debug\Week3_Tutorial3_Drawing at Controller.exe
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\bin\Debug\Week3_Tutorial3_Drawing at Controller.pdb
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing at Controller.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing_at_Controller.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing_at_Controller.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing at Controller.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing at Controller.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing at Controller.exe
+D:\Window GUI Programming\Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller\obj\Debug\Week3_Tutorial3_Drawing at Controller.pdb

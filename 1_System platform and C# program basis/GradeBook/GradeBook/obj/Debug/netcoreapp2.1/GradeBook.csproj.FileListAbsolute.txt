@@ -1,0 +1,11 @@
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.deps.json
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.dll
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.pdb
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csprojAssemblyReference.cache
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csproj.CoreCompileInputs.cache
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
+D:\ASP_NET JiaoTong University\GradeBook\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb

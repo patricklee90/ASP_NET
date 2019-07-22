@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\bin\Debug\Week1_Tutorial1_First Window Program.exe.config
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\bin\Debug\Week1_Tutorial1_First Window Program.exe
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\bin\Debug\Week1_Tutorial1_First Window Program.pdb
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First Window Program.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First_Window_Program.Form1.resources
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First_Window_Program.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First Window Program.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First Window Program.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First Window Program.exe
+D:\Window GUI Programming\Week1_Tutorial1_First Window Program\Week1_Tutorial1_First Window Program\obj\Debug\Week1_Tutorial1_First Window Program.pdb

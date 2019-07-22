@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3_Tutorial3_Drawing at Controller", "Week3_Tutorial3_Drawing at Controller\Week3_Tutorial3_Drawing at Controller.csproj", "{AA1935B6-848F-451D-9BEA-E1DE89ACFD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1935B6-848F-451D-9BEA-E1DE89ACFD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1935B6-848F-451D-9BEA-E1DE89ACFD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1935B6-848F-451D-9BEA-E1DE89ACFD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1935B6-848F-451D-9BEA-E1DE89ACFD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4B008C-014C-4041-9941-0B327178B23F}
+	EndGlobalSection
+EndGlobal

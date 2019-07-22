@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\bin\Debug\Week1_Exam1_TextBox COlor.exe.config
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\bin\Debug\Week1_Exam1_TextBox COlor.exe
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\bin\Debug\Week1_Exam1_TextBox COlor.pdb
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox COlor.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox_COlor.Form1.resources
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox_COlor.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox COlor.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox COlor.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox COlor.exe
+D:\Window GUI Programming\Week1_Exam1_TextBox COlor\Week1_Exam1_TextBox COlor\obj\Debug\Week1_Exam1_TextBox COlor.pdb

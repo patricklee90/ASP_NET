@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\bin\Debug\Week4_Tutorial2_Read Write Binary File.exe.config
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\bin\Debug\Week4_Tutorial2_Read Write Binary File.exe
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\bin\Debug\Week4_Tutorial2_Read Write Binary File.pdb
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read Write Binary File.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read_Write_Binary_File.Form1.resources
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read_Write_Binary_File.Properties.Resources.resources
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read Write Binary File.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read Write Binary File.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read Write Binary File.exe
+D:\Window GUI Programming\Week4_Tutorial2_Read Write Binary File\Week4_Tutorial2_Read Write Binary File\obj\Debug\Week4_Tutorial2_Read Write Binary File.pdb

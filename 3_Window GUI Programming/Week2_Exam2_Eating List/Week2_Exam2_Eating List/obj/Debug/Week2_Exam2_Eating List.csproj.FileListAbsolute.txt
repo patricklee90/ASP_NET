@@ -1,0 +1,20 @@
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\bin\Debug\Week2_Exam2_Eating List.exe.config
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\bin\Debug\Week2_Exam2_Eating List.exe
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\bin\Debug\Week2_Exam2_Eating List.pdb
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.csprojAssemblyReference.cache
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating_List.Form1.resources
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating_List.Properties.Resources.resources
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.csproj.GenerateResource.cache
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.exe
+C:\Users\ricky\source\repos\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.pdb
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\bin\Debug\Week2_Exam2_Eating List.exe.config
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\bin\Debug\Week2_Exam2_Eating List.exe
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\bin\Debug\Week2_Exam2_Eating List.pdb
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating_List.Form1.resources
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating_List.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.exe
+D:\Window GUI Programming\Week2_Exam2_Eating List\Week2_Exam2_Eating List\obj\Debug\Week2_Exam2_Eating List.pdb

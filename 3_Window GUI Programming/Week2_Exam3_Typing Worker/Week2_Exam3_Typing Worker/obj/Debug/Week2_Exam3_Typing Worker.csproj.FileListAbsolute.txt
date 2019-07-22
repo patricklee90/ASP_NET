@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\bin\Debug\Week2_Exam3_Typing Worker.exe.config
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\bin\Debug\Week2_Exam3_Typing Worker.exe
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\bin\Debug\Week2_Exam3_Typing Worker.pdb
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing Worker.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing_Worker.Form1.resources
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing_Worker.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing Worker.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing Worker.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing Worker.exe
+D:\Window GUI Programming\Week2_Exam3_Typing Worker\Week2_Exam3_Typing Worker\obj\Debug\Week2_Exam3_Typing Worker.pdb

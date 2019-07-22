@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\bin\Debug\Week2_Tutorial4_Mouse Event.exe.config
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\bin\Debug\Week2_Tutorial4_Mouse Event.exe
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\bin\Debug\Week2_Tutorial4_Mouse Event.pdb
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse Event.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse_Event.Form1.resources
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse_Event.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse Event.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse Event.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse Event.exe
+D:\Window GUI Programming\Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event\obj\Debug\Week2_Tutorial4_Mouse Event.pdb

@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\bin\Debug\Week2_Tutorial6_Progress Bar.exe.config
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\bin\Debug\Week2_Tutorial6_Progress Bar.exe
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\bin\Debug\Week2_Tutorial6_Progress Bar.pdb
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress Bar.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress_Bar.Form1.resources
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress_Bar.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress Bar.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress Bar.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress Bar.exe
+D:\Window GUI Programming\Week2_Tutorial6_Progress Bar\Week2_Tutorial6_Progress Bar\obj\Debug\Week2_Tutorial6_Progress Bar.pdb

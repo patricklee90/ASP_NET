@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\bin\Debug\Week4_Exam3_Combine Files to New.exe.config
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\bin\Debug\Week4_Exam3_Combine Files to New.exe
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\bin\Debug\Week4_Exam3_Combine Files to New.pdb
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine Files to New.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine_Files_to_New.Form1.resources
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine_Files_to_New.Properties.Resources.resources
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine Files to New.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine Files to New.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine Files to New.exe
+D:\Window GUI Programming\Week4_Exam3_Combine Files to New\Week4_Exam3_Combine Files to New\obj\Debug\Week4_Exam3_Combine Files to New.pdb

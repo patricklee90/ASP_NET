@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\bin\Debug\Week1_Tutorial5_Use of picture frame controls.exe.config
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\bin\Debug\Week1_Tutorial5_Use of picture frame controls.exe
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\bin\Debug\Week1_Tutorial5_Use of picture frame controls.pdb
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use of picture frame controls.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use_of_picture_frame_controls.Form1.resources
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use_of_picture_frame_controls.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use of picture frame controls.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use of picture frame controls.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use of picture frame controls.exe
+D:\Window GUI Programming\Week1_Tutorial5_Use of picture frame controls\Week1_Tutorial5_Use of picture frame controls\obj\Debug\Week1_Tutorial5_Use of picture frame controls.pdb

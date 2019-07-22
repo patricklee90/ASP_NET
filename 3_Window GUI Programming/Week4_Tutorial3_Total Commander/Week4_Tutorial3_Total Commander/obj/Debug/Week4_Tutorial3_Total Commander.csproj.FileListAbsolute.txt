@@ -1,0 +1,20 @@
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\bin\Debug\Week4_Tutorial3_Total Commander.exe.config
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\bin\Debug\Week4_Tutorial3_Total Commander.exe
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\bin\Debug\Week4_Tutorial3_Total Commander.pdb
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total_Commander.Form1.resources
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total_Commander.Properties.Resources.resources
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.exe
+D:\Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\bin\Debug\Week4_Tutorial3_Total Commander.exe.config
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\bin\Debug\Week4_Tutorial3_Total Commander.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\bin\Debug\Week4_Tutorial3_Total Commander.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.csprojAssemblyReference.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total_Commander.Form1.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total_Commander.Properties.Resources.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.csproj.GenerateResource.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.csproj.CoreCompileInputs.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Total Commander\Week4_Tutorial3_Total Commander\obj\Debug\Week4_Tutorial3_Total Commander.pdb

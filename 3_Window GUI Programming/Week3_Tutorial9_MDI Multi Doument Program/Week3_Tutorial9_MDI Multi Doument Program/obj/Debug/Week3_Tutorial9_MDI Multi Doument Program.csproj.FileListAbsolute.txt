@@ -1,0 +1,22 @@
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\bin\Debug\Week3_Tutorial9_MDI Multi Doument Program.exe.config
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\bin\Debug\Week3_Tutorial9_MDI Multi Doument Program.exe
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\bin\Debug\Week3_Tutorial9_MDI Multi Doument Program.pdb
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI_Multi_Doument_Program.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI_Multi_Doument_Program.FormChild.resources
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI_Multi_Doument_Program.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.exe
+D:\Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\bin\Debug\Week3_Tutorial9_MDI Multi Doument Program.exe.config
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\bin\Debug\Week3_Tutorial9_MDI Multi Doument Program.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\bin\Debug\Week3_Tutorial9_MDI Multi Doument Program.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.csprojAssemblyReference.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI_Multi_Doument_Program.Form1.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI_Multi_Doument_Program.FormChild.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI_Multi_Doument_Program.Properties.Resources.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.csproj.GenerateResource.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.csproj.CoreCompileInputs.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial9_MDI Multi Doument Program\Week3_Tutorial9_MDI Multi Doument Program\obj\Debug\Week3_Tutorial9_MDI Multi Doument Program.pdb

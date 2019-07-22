@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\bin\Debug\Week1_Tutorial2_Sync Text Box.exe.config
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\bin\Debug\Week1_Tutorial2_Sync Text Box.exe
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\bin\Debug\Week1_Tutorial2_Sync Text Box.pdb
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync Text Box.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync_Text_Box.Form1.resources
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync_Text_Box.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync Text Box.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync Text Box.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync Text Box.exe
+D:\Window GUI Programming\Week1_Tutorial2_Sync Text Box\Week1_Tutorial2_Sync Text Box\obj\Debug\Week1_Tutorial2_Sync Text Box.pdb

@@ -1,0 +1,20 @@
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\bin\Debug\Week3_Tutorial7_Chatbox.exe.config
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\bin\Debug\Week3_Tutorial7_Chatbox.exe
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\bin\Debug\Week3_Tutorial7_Chatbox.pdb
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.exe
+D:\Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\bin\Debug\Week3_Tutorial7_Chatbox.exe.config
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\bin\Debug\Week3_Tutorial7_Chatbox.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\bin\Debug\Week3_Tutorial7_Chatbox.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.csprojAssemblyReference.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.Form1.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.Properties.Resources.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.csproj.GenerateResource.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.csproj.CoreCompileInputs.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week3_Tutorial7_Chatbox\Week3_Tutorial7_Chatbox\obj\Debug\Week3_Tutorial7_Chatbox.pdb

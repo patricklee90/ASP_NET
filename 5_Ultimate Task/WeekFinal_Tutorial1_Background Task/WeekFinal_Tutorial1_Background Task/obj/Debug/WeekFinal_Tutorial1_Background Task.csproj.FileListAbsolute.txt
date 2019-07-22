@@ -1,0 +1,10 @@
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\bin\Debug\WeekFinal_Tutorial1_Background Task.exe.config
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\bin\Debug\WeekFinal_Tutorial1_Background Task.exe
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\bin\Debug\WeekFinal_Tutorial1_Background Task.pdb
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background Task.csprojAssemblyReference.cache
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background_Task.Form1.resources
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background_Task.Properties.Resources.resources
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background Task.csproj.GenerateResource.cache
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background Task.csproj.CoreCompileInputs.cache
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background Task.exe
+I:\Knowledges\Knowledge -Programming - ASP_NET\5_Ultimate Task\WeekFinal_Tutorial1_Background Task\WeekFinal_Tutorial1_Background Task\obj\Debug\WeekFinal_Tutorial1_Background Task.pdb

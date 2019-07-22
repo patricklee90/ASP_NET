@@ -1,0 +1,9 @@
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\bin\Debug\Week3_Exam1_Needle Thread.exe.config
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\bin\Debug\Week3_Exam1_Needle Thread.exe
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\bin\Debug\Week3_Exam1_Needle Thread.pdb
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\obj\Debug\Week3_Exam1_Needle_Thread.Form1.resources
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\obj\Debug\Week3_Exam1_Needle_Thread.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\obj\Debug\Week3_Exam1_Needle Thread.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\obj\Debug\Week3_Exam1_Needle Thread.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\obj\Debug\Week3_Exam1_Needle Thread.exe
+D:\Window GUI Programming\Week3_Exam1_Needle Thread\Week3_Exam1_Needle Thread\obj\Debug\Week3_Exam1_Needle Thread.pdb

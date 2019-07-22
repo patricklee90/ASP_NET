@@ -1,0 +1,9 @@
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\obj\Debug\Week4_Exam1_Text_Files_Numbers.Form1.resources
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\obj\Debug\Week4_Exam1_Text_Files_Numbers.Properties.Resources.resources
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\obj\Debug\Week4_Exam1_Text Files Numbers.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\obj\Debug\Week4_Exam1_Text Files Numbers.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\bin\Debug\Week4_Exam1_Text Files Numbers.exe.config
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\bin\Debug\Week4_Exam1_Text Files Numbers.exe
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\bin\Debug\Week4_Exam1_Text Files Numbers.pdb
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\obj\Debug\Week4_Exam1_Text Files Numbers.exe
+D:\Window GUI Programming\Week4_Exam1_Text Files Numbers\Week4_Exam1_Text Files Numbers\obj\Debug\Week4_Exam1_Text Files Numbers.pdb

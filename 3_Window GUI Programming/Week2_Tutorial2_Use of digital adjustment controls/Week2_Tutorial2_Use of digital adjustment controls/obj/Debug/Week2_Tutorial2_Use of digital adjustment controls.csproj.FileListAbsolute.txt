@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\bin\Debug\Week2_Tutorial2_Use of digital adjustment controls.exe.config
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\bin\Debug\Week2_Tutorial2_Use of digital adjustment controls.exe
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\bin\Debug\Week2_Tutorial2_Use of digital adjustment controls.pdb
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use of digital adjustment controls.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use_of_digital_adjustment_controls.Form1.resources
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use_of_digital_adjustment_controls.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use of digital adjustment controls.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use of digital adjustment controls.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use of digital adjustment controls.exe
+D:\Window GUI Programming\Week2_Tutorial2_Use of digital adjustment controls\Week2_Tutorial2_Use of digital adjustment controls\obj\Debug\Week2_Tutorial2_Use of digital adjustment controls.pdb

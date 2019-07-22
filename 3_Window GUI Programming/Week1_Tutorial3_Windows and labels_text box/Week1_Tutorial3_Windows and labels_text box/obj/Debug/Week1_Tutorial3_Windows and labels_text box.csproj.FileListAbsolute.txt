@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\bin\Debug\Week1_Tutorial3_Windows and labels_text box.exe.config
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\bin\Debug\Week1_Tutorial3_Windows and labels_text box.exe
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\bin\Debug\Week1_Tutorial3_Windows and labels_text box.pdb
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows and labels_text box.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows_and_labels_text_box.Form1.resources
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows_and_labels_text_box.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows and labels_text box.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows and labels_text box.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows and labels_text box.exe
+D:\Window GUI Programming\Week1_Tutorial3_Windows and labels_text box\Week1_Tutorial3_Windows and labels_text box\obj\Debug\Week1_Tutorial3_Windows and labels_text box.pdb

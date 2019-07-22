@@ -1,0 +1,11 @@
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.deps.json
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.runtimeconfig.json
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.runtimeconfig.dev.json
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.dll
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.pdb
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.csprojAssemblyReference.cache
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.AssemblyInfoInputs.cache
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.AssemblyInfo.cs
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.dll
+D:\ASP_NET JiaoTong University\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.pdb

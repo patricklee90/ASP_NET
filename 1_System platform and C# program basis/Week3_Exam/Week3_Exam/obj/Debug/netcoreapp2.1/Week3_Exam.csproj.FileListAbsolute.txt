@@ -1,0 +1,22 @@
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.deps.json
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.runtimeconfig.json
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.runtimeconfig.dev.json
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.dll
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.pdb
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.csprojAssemblyReference.cache
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.csproj.CoreCompileInputs.cache
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.AssemblyInfoInputs.cache
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.AssemblyInfo.cs
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.dll
+D:\ASP_NET JiaoTong University\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.pdb
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.deps.json
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.runtimeconfig.json
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.runtimeconfig.dev.json
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.dll
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\bin\Debug\netcoreapp2.1\Week3_Exam.pdb
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.csprojAssemblyReference.cache
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.csproj.CoreCompileInputs.cache
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.AssemblyInfoInputs.cache
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.AssemblyInfo.cs
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.dll
+I:\Knowledges\Knowledge -Programming - ASP_NET\1_System platform and C# program basis\Week3_Exam\Week3_Exam\obj\Debug\netcoreapp2.1\Week3_Exam.pdb

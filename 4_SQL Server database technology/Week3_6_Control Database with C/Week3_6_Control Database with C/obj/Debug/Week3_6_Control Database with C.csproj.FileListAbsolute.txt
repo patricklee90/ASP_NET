@@ -1,0 +1,7 @@
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\bin\Debug\Week3_6_Control Database with C.exe.config
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\bin\Debug\Week3_6_Control Database with C.exe
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\bin\Debug\Week3_6_Control Database with C.pdb
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\obj\Debug\Week3_6_Control Database with C.csprojAssemblyReference.cache
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\obj\Debug\Week3_6_Control Database with C.csproj.CoreCompileInputs.cache
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\obj\Debug\Week3_6_Control Database with C.exe
+D:\4_SQL Server database technology\Week3_6_Control Database with C\Week3_6_Control Database with C\obj\Debug\Week3_6_Control Database with C.pdb

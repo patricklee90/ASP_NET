@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\bin\Debug\Week3_Tutorial5_Little Programmer.exe.config
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\bin\Debug\Week3_Tutorial5_Little Programmer.exe
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\bin\Debug\Week3_Tutorial5_Little Programmer.pdb
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little Programmer.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little_Programmer.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little_Programmer.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little Programmer.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little Programmer.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little Programmer.exe
+D:\Window GUI Programming\Week3_Tutorial5_Little Programmer\Week3_Tutorial5_Little Programmer\obj\Debug\Week3_Tutorial5_Little Programmer.pdb

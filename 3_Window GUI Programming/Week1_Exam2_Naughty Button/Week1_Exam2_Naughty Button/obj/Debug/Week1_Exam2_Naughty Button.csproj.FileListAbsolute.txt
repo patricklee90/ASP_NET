@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\bin\Debug\Week1_Exam2_Naughty Button.exe.config
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\bin\Debug\Week1_Exam2_Naughty Button.exe
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\bin\Debug\Week1_Exam2_Naughty Button.pdb
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty Button.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty_Button.Form1.resources
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty_Button.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty Button.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty Button.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty Button.exe
+D:\Window GUI Programming\Week1_Exam2_Naughty Button\Week1_Exam2_Naughty Button\obj\Debug\Week1_Exam2_Naughty Button.pdb

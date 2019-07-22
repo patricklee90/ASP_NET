@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\bin\Debug\Week2_Exam2_Word Document Search.exe.config
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\bin\Debug\Week2_Exam2_Word Document Search.exe
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\bin\Debug\Week2_Exam2_Word Document Search.pdb
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word Document Search.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word_Document_Search.Form1.resources
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word_Document_Search.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word Document Search.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word Document Search.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word Document Search.exe
+D:\Window GUI Programming\Week2_Exam2_Word Document Search\Week2_Exam2_Word Document Search\obj\Debug\Week2_Exam2_Word Document Search.pdb

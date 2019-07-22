@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\bin\Debug\Week3_Tutorial4_Menu.exe.config
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\bin\Debug\Week3_Tutorial4_Menu.exe
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\bin\Debug\Week3_Tutorial4_Menu.pdb
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.exe
+D:\Window GUI Programming\Week3_Tutorial4_Menu\Week3_Tutorial4_Menu\obj\Debug\Week3_Tutorial4_Menu.pdb

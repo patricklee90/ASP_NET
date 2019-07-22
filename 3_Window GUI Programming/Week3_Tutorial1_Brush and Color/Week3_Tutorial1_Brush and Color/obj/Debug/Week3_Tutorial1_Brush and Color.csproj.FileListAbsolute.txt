@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\bin\Debug\Week3_Tutorial1_Brush and Color.exe.config
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\bin\Debug\Week3_Tutorial1_Brush and Color.exe
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\bin\Debug\Week3_Tutorial1_Brush and Color.pdb
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush and Color.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush_and_Color.Form1.resources
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush_and_Color.Properties.Resources.resources
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush and Color.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush and Color.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush and Color.exe
+D:\Window GUI Programming\Week3_Tutorial1_Brush and Color\Week3_Tutorial1_Brush and Color\obj\Debug\Week3_Tutorial1_Brush and Color.pdb

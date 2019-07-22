@@ -1,0 +1,20 @@
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\bin\Debug\Week4_Tutorial3_Directory Operation.exe.config
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\bin\Debug\Week4_Tutorial3_Directory Operation.exe
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\bin\Debug\Week4_Tutorial3_Directory Operation.pdb
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory_Operation.Form1.resources
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory_Operation.Properties.Resources.resources
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.exe
+D:\Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\bin\Debug\Week4_Tutorial3_Directory Operation.exe.config
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\bin\Debug\Week4_Tutorial3_Directory Operation.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\bin\Debug\Week4_Tutorial3_Directory Operation.pdb
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.csprojAssemblyReference.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory_Operation.Form1.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory_Operation.Properties.Resources.resources
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.csproj.GenerateResource.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.csproj.CoreCompileInputs.cache
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.exe
+F:\Knowledges\Knowledge -Programming - ASP_NET\3_Window GUI Programming\Week4_Tutorial3_Directory Operation\Week4_Tutorial3_Directory Operation\obj\Debug\Week4_Tutorial3_Directory Operation.pdb

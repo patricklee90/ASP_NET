@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\bin\Debug\Week4_Tutorial1_Read Write Text Document.exe.config
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\bin\Debug\Week4_Tutorial1_Read Write Text Document.exe
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\bin\Debug\Week4_Tutorial1_Read Write Text Document.pdb
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read Write Text Document.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read_Write_Text_Document.Form1.resources
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read_Write_Text_Document.Properties.Resources.resources
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read Write Text Document.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read Write Text Document.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read Write Text Document.exe
+D:\Window GUI Programming\Week4_Tutorial1_Read Write Text Document\Week4_Tutorial1_Read Write Text Document\obj\Debug\Week4_Tutorial1_Read Write Text Document.pdb

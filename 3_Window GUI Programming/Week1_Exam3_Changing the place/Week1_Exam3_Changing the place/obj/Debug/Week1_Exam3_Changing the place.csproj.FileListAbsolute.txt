@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\bin\Debug\Week1_Exam3_Changing the place.exe.config
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\bin\Debug\Week1_Exam3_Changing the place.exe
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\bin\Debug\Week1_Exam3_Changing the place.pdb
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing the place.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing_the_place.Form1.resources
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing_the_place.Properties.Resources.resources
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing the place.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing the place.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing the place.exe
+D:\Window GUI Programming\Week1_Exam3_Changing the place\Week1_Exam3_Changing the place\obj\Debug\Week1_Exam3_Changing the place.pdb

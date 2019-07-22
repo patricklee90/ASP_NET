@@ -1,0 +1,13 @@
+week3 exam - 1:
+
+Hello
+My name is Patrick Lee
+
+week3 exam -2 :
+
+A program to calculate sum, minus, multiply and divide
+
+Please enter Two Real Numbers:
+66
+33
+Output:99,33,2178,2

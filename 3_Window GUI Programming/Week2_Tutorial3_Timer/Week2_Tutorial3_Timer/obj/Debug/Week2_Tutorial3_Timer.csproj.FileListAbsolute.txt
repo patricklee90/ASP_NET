@@ -1,0 +1,10 @@
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\bin\Debug\Week2_Tutorial3_Timer.exe.config
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\bin\Debug\Week2_Tutorial3_Timer.exe
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\bin\Debug\Week2_Tutorial3_Timer.pdb
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.csprojAssemblyReference.cache
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.Form1.resources
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.Properties.Resources.resources
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.csproj.GenerateResource.cache
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.csproj.CoreCompileInputs.cache
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.exe
+D:\Window GUI Programming\Week2_Tutorial3_Timer\Week2_Tutorial3_Timer\obj\Debug\Week2_Tutorial3_Timer.pdb

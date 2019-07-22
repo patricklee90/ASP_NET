@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2_Tutorial4_Mouse Event", "Week2_Tutorial4_Mouse Event\Week2_Tutorial4_Mouse Event.csproj", "{334F485D-C129-4DC8-AC16-118DBE8CBDA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334F485D-C129-4DC8-AC16-118DBE8CBDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334F485D-C129-4DC8-AC16-118DBE8CBDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334F485D-C129-4DC8-AC16-118DBE8CBDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334F485D-C129-4DC8-AC16-118DBE8CBDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DD0156-7835-497D-B261-0B15B95158BB}
+	EndGlobalSection
+EndGlobal
