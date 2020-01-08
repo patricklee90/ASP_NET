@@ -1,0 +1,15 @@
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csprojAssemblyReference.cache
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csproj.CopyComplete
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.pdb

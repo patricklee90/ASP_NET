@@ -1,0 +1,8 @@
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\bin\Debug\netstandard2.0\FizzBuzz.Library.deps.json
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\bin\Debug\netstandard2.0\FizzBuzz.Library.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\bin\Debug\netstandard2.0\FizzBuzz.Library.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.AssemblyInfoInputs.cache
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.AssemblyInfo.cs
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.csprojAssemblyReference.cache

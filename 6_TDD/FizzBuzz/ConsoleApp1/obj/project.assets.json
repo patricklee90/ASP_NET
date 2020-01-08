@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "FizzBuzz.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FizzBuzz.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.Library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FizzBuzz.Library/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzz.Library/FizzBuzz.Library.csproj",
+      "msbuildProject": "../FizzBuzz.Library/FizzBuzz.Library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "FizzBuzz.Library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ricky\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZLegend\\Projects\\Learning\\Learning - TDD\\FizzBuzz\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\ZLegend\\Projects\\Learning\\ASP.NET\\6_TDD\\FizzBuzz\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\ZLegend\\Projects\\Learning\\Learning - TDD\\FizzBuzz\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\ZLegend\\Projects\\Learning\\ASP.NET\\6_TDD\\FizzBuzz\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\ricky\\.nuget\\packages\\",
-      "outputPath": "D:\\ZLegend\\Projects\\Learning\\Learning - TDD\\FizzBuzz\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\ZLegend\\Projects\\Learning\\ASP.NET\\6_TDD\\FizzBuzz\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,14 +51,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://packagesource": {},
-        "https://api.nuget.orig/v3/index.json": {},
-        "https://pkgs.dev.azure.com/azuresprint-devops/0b07e140-fcc1-4aaf-8c84-9991cc8a0ec5/_packaging/Team7Dragon/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/rickylee90/_packaging/rickylee90/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ZLegend\\Projects\\Learning\\ASP.NET\\6_TDD\\FizzBuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+              "projectPath": "D:\\ZLegend\\Projects\\Learning\\ASP.NET\\6_TDD\\FizzBuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

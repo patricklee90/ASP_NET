@@ -1,0 +1,14 @@
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\FizzBuzz.Library.dll
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\bin\Debug\netcoreapp3.0\FizzBuzz.Library.pdb
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\ZLegend\Projects\Learning\ASP.NET\6_TDD\FizzBuzz\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CopyComplete
